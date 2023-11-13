@@ -8,3 +8,4 @@
 6. git log: Listado de los commits
 7. git commit -- amend: Nos ayuda a editar el mensaje del ultimo commit 
 8. git checkout -b rama-name: generar una rama
+9. git checkout master: mover a la rama indicada
